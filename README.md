@@ -4,7 +4,3 @@
 #### 3. 업체 모청 URL 연동 예정 
 ####
 
-
-
-
-##### 출처: https://andersonchoi.github.io/wedding-card/
